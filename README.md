@@ -7,6 +7,12 @@ Beside that, I'm so enthusiastic and still learn about data science and data ana
 💬 Ask me more about **_statistics, data, and machine larning_**, so we can be friends to learn together! that funny, right? 
 
 📫 Reach me : alifiasalma95@gmail.com
+
+<p align="left">
+<a href="https://github.com/alifiasalma">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alifiasalma&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 <!--
 **alifiasalma/alifiasalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
